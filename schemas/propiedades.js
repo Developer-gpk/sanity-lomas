@@ -10,6 +10,11 @@ export default {
             of: [{ type: 'image' }]
         },
         {
+            name: 'url',
+            title: 'url de video',
+            type: 'string'
+        },
+        {
             name: 'sku',
             title: 'SKU',
             type: 'string'
